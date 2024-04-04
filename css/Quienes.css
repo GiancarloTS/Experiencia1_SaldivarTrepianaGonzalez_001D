@@ -1,5 +1,6 @@
 #cuerpo{
     background: linear-gradient(to bottom, #c71485, #6b6bff);
+    font-family: "Anybody", sans-serif;
 }
 header{
     position: sticky;
