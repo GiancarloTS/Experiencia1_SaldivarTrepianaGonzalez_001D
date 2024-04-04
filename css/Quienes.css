@@ -1,3 +1,6 @@
+#cuerpo{
+    background: linear-gradient(to bottom, #c71485, #6b6bff);
+}
 header{
     position: sticky;
     top: 0px;
@@ -27,4 +30,53 @@ color: white;
 font-size: 16px;
 margin-left: 10px;
 
+}
+/*Con cuatro colores, el primero para arriba, el segundo para la derecha, 
+el tercero para abajo y el cuarto para la izquierda.
+
+Con tres colores, el primero para arriba, el segundo para 
+izquierda y derecha y el tercero para abajo*/
+#Titulo{
+font-size: 6em;
+}
+#Borde_texto_mision{
+    box-shadow: 10px -5px 35px  rgba(0, 0, 0, 0.74);
+}
+
+#Borde_imagen_mision{
+    box-shadow: -10px 5px 35px rgba(0, 0, 0, 0.74);
+}
+#Borde_texto_vision{
+    box-shadow: 10px -5px 35px  rgba(0, 0, 0, 0.74);
+}
+
+#Borde_imagen_vision{
+    box-shadow: -10px 5px 35px rgba(0, 0, 0, 0.74);
+}
+
+#Borde_texto_acerca{
+    box-shadow: 10px 5px 35px  rgba(0, 0, 0, 0.74);
+}
+
+#Borde_imagen_acerca{
+    box-shadow: -10px -5px 35px  rgba(0, 0, 0, 0.74);
+}
+
+#Borde_texto_ubicacion{
+    box-shadow: 0px 0px 20px black;
+}
+
+#Borde_imagen_ubicacion{
+    box-shadow: 0px 0px 20px black;
+}
+
+#Boton_ubicacion{
+    background-color: #6b6bff;
+    
+    font-weight:bolder ;
+    
+}
+
+#Borde_video{
+    box-shadow: 0px 0px 20px black;
 }
