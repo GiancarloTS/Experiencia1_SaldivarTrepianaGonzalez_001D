@@ -38,7 +38,7 @@ el tercero para abajo y el cuarto para la izquierda.
 Con tres colores, el primero para arriba, el segundo para 
 izquierda y derecha y el tercero para abajo*/
 #Titulo{
-    font-size: 75px;
+    font-size: 6em;
 }
 #Borde_texto_mision{
     box-shadow: 10px -5px 35px  rgba(0, 0, 0, 0.74);
