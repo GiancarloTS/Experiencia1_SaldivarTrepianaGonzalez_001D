@@ -13,6 +13,7 @@ il{
 footer{
 background-color: rgb(33, 33, 33);
 color: white;
+padding: 7px;
 }
 #carouselExample{
 
@@ -33,4 +34,9 @@ margin-left: 10px;
 
     display: flex;
     
+}
+
+body{
+
+    font-family: "Anybody", sans-serif;
 }
